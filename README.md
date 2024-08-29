@@ -1,4 +1,4 @@
-![Header Image](https://github.com/Angelgdaniel/profile-pictures/blob/main/image-perfil-one-angel-daniel-gutierrez-quiroga.jpg)
+![Header Image](https://github.com/Angelgdaniel/personal-branding/blob/main/portada-github-angel-daniel-gutierrez-quiroga.jpg)
 
 # Hi there, I'm Angel Daniel Gutierrez Quiroga 👋
 
