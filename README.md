@@ -25,5 +25,6 @@ Passionate about creating innovative and efficient web solutions, I specialize i
 
 - **Portfolio**: [angeldaniel.vercel.app](https://angeldaniel.vercel.app/)
 - **Email**: [angeldaniel.dev@gmail.com](mailto:angeldaniel.dev@gmail.com)
-- **LinkedIn**: [Angel Daniel Gutierrez Quiroga](https://www.linkedin.com/in/angelgdaniel/)
 - **GitHub**: [github.com/Angelgdaniel](https://github.com/Angelgdaniel)
+- **LinkedIn**: [Angel Daniel Gutierrez Quiroga](https://www.linkedin.com/in/angelgdaniel/)
+
