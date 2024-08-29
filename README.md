@@ -15,20 +15,15 @@ Passionate about creating innovative and efficient web solutions, I specialize i
 
 ---
 
-### 📊 GitHub Analytics
-
-![Angel Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
----
-
 ### 💻 My Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelgdaniel&layout=compact&theme=radical)](https://github.com/Angelgdaniel/github-readme-stats)
 
 ---
 
 ### 📫 Contact
 
-- **Email**: angeldaniel.dev@gmail.com
-- **LinkedIn**: [Angel Daniel Gutierrez Quiroga](https://www.linkedin.com/in/tu-perfil)
-- **GitHub**: [github.com/tu-usuario](https://github.com/tu-usuario)
+- **Portfolio**: [angeldaniel.vercel.app](https://angeldaniel.vercel.app/)
+- **Email**: [angeldaniel.dev@gmail.com](mailto:angeldaniel.dev@gmail.com)
+- **LinkedIn**: [Angel Daniel Gutierrez Quiroga](https://www.linkedin.com/in/angelgdaniel/)
+- **GitHub**: [github.com/Angelgdaniel](https://github.com/Angelgdaniel)
