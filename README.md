@@ -15,16 +15,27 @@ Passionate about creating innovative and efficient web solutions, I specialize i
 
 ---
 
+### 🛠️ Technical Skills
+
+**Technologies:**
+- HTML, CSS, JavaScript
+- Bootstrap, SASS
+- React.js, Node.js, Express.js, MongoDB
+
+**Tools:**
+- Git, GitHub, Trello, Postman, Responsively App
+
+---
+
 ### 💻 My Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelgdaniel&layout=compact&theme=radical)](https://github.com/Angelgdaniel/github-readme-stats)
 
 ---
 
-### 📫 Contact
+### 📫 Connect with Me
 
 - **Portfolio**: [angeldaniel.vercel.app](https://angeldaniel.vercel.app/)
 - **Email**: [angeldaniel.dev@gmail.com](mailto:angeldaniel.dev@gmail.com)
 - **GitHub**: [github.com/Angelgdaniel](https://github.com/Angelgdaniel)
 - **LinkedIn**: [Angel Daniel Gutierrez Quiroga](https://www.linkedin.com/in/angelgdaniel/)
-
