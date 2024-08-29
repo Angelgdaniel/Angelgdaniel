@@ -1,4 +1,4 @@
-![Header Image](https://drive.google.com/file/d/1dMTnok-wPAbjy_OqH0w9b3qUQtn5SsLb/view?usp=sharing)
+![Header Image](https://github.com/Angelgdaniel/profile-pictures/blob/main/image-perfil-one-angel-daniel-gutierrez-quiroga.jpg)
 
 # Hi there, I'm Angel Daniel Gutierrez Quiroga 👋
 
